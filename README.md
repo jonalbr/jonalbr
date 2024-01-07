@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on nothing specific
+- 🌱 I’m currently learning more about python, homeassistant, home automation and microcontroller
+
+
 <!--
 **jonalbr/jonalbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
