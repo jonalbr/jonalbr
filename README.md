@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on nothing specific
-- 🌱 I’m currently learning more about python, homeassistant, home automation and microcontroller
+- 🌱 I’m currently learning more about python, homeassistant, home automation, C and embedded systems.
 
 
 <!--
